@@ -4,6 +4,7 @@ Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-sangitakunapuli-docs/>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-sangitakunapuli-docs-qa/>
 
+Link to repo: https://github.com/ucsb-cs156-s22/jpa03-sangitakunapuli
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
