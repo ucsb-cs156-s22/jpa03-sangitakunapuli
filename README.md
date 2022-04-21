@@ -1,8 +1,9 @@
 # demo-spring-react-example-v2: dsre-v2
 
 Storybook is here:
-* Production: <https://ucsb-cs156-s22.github.io/demo-spring-react-example-docs/>
-* QA:  <https://ucsb-cs156-s22.github.io/demo-spring-react-example-docs-qa/>
+* Production: <https://ucsb-cs156-s22.github.io/jpa03-sangitakunapuli-docs/>
+* QA:  <https://ucsb-cs156-s22.github.io/jpa03-sangitakunapuli-docs-qa/>
+
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
@@ -90,3 +91,7 @@ On Heroku:
 * The SQL database is a postgres database provisioned automatically by Heroku
 * You can reset it with `heroku pg:reset --app app-name-goes-here`
 * More info and instructions for access the SQL prompt are at [docs/postgres-database.md](/docs/postgres-database.md)
+
+
+CodeCov Badge:
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-sangitakunapuli/branch/master/graph/badge.svg?token=Eqq2bkeKj1)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-sangitakunapuli)
